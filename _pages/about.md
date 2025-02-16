@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hello there, I am Momina!  
-
 ## **👩‍💻 About Me**  
 Hi there! I’m **Momina Liaqat Ali**, a passionate **researcher, data scientist, and machine learning engineer** specializing in **artificial intelligence, deep learning, and high-performance computing**.  
 
@@ -25,10 +23,10 @@ Through my research, I strive to bridge the gap between **artificial intelligenc
 ---
 
 ## **🔹 What I Do**  
-✨ **AI for Healthcare & Bioinformatics** – Applying deep learning techniques to **medical imaging**, **disease detection**, and **biological data analysis**.  
-🚀 **High-Performance Computing (HPC)** – Optimizing machine learning models using **parallel and distributed computing** for faster execution.  
-📊 **Machine Learning & Data Science** – Developing models for **pattern recognition, time-series forecasting, and anomaly detection**.  
-🖥 **Deep Learning Research** – Exploring **neural network architectures, optimization techniques, and AI model efficiency**.  
+✨ **AI for Healthcare & Bioinformatics** – Applying deep learning techniques to medical imaging, disease detection, and biological data analysis.  
+🚀 **High-Performance Computing (HPC)** – Optimizing machine learning models using parallel and distributed computing for faster execution.  
+📊 **Machine Learning & Data Science** – Developing models for pattern recognition, time-series forecasting, and anomaly detection.  
+🖥 **Deep Learning Research** – Exploring neural network architectures, optimization techniques, and AI model efficiency.  
 
 ---
 

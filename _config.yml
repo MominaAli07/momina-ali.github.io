@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Momina's Homepage'"
+title                    : "Momina's Homepage"
 title_separator          : "-"
 name                     : &name "Momina Liaqat Ali"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD scholar in Computational and Data Science"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL

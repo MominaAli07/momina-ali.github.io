@@ -35,7 +35,7 @@ I am passionate about bridging the gap between **AI research and its practical a
 ## **📢 Beyond Research: Science Communication & Knowledge Sharing**  
 I strongly believe in **science communication** and the importance of making AI research accessible. I actively share insights on **AI, machine learning, and deep learning** through technical writing and public engagement.  
 
-<!-- Additionally, I run a **YouTube channel 🎥**, where I document my **Ph.D. research, technical projects, and industry insights** to help students, researchers, and professionals gain a deeper understanding of machine learning and computational intelligence.   -->
+Additionally, I run a **YouTube channel 🎥**, where I document my **Ph.D. research, technical projects, and industry insights** to help students, researchers, and professionals gain a deeper understanding of machine learning and computational intelligence.  
 
 ---
 
@@ -44,8 +44,8 @@ I am always open to discussions on **cutting-edge AI research, industry collabor
 
 📩 **Get in Touch:**  
 - **[LinkedIn](https://www.linkedin.com/in/mominaliaqatali/)** – Let’s connect!  
-- **[GitHub] (https://github.com/MominaAli07)** – Explore my work and research contributions.  
-<!-- - **YouTube** – Learn more about AI, deep learning, and my research journey.   -->
+- **GitHub** – Explore my work and research contributions.  
+- **YouTube** – Learn more about AI, deep learning, and my research journey.  
 
 Feel free to reach out for **collaborations, research discussions, or AI-focused initiatives**. I look forward to connecting with like-minded professionals and contributing to the advancement of AI! 🚀  
 

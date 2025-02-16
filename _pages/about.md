@@ -8,17 +8,49 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I’m Momina Liaqat Ali 👩‍💻, a researcher, data scientist, and machine learning engineer with a deep passion for artificial intelligence, bioinformatics, and high-performance computing. Currently pursuing my Ph.D., I specialize in machine learning, deep learning, and computational intelligence, applying these technologies to solve real-world problems in medical imaging 🏥, bioinformatics 🔬, and time-series forecasting 📈.
-With a strong background in Python, PyTorch Lightning, and parallel computing, I have worked on a diverse range of projects, including malaria detection in medical images 🦠, parallelized RNN training for financial forecasting 💰, and microbiome data analysis 🧪. My expertise extends to high-performance computing (HPC) 🚀, where I optimize machine learning models to run efficiently on large datasets, reducing training time while maintaining accuracy.
-🔹 What I Do
-✨ AI for Healthcare & Bioinformatics – Applying deep learning to medical imaging, disease detection, and microbiome analysis.
-🚀 High-Performance Computing (HPC) – Optimizing AI models with parallel processing for faster execution.
-📊 Machine Learning & Data Science – Building intelligent systems for time-series forecasting and pattern recognition.
-🖥 Deep Learning Research – Exploring novel architectures and training techniques to push the boundaries of AI.
-🔗 Beyond Research: Sharing Knowledge & Building Community
-I believe in the power of science communication and knowledge sharing! 📢 That’s why I actively write about AI, medical imaging, and deep learning and share insights through my YouTube channel 🎥, where I document my Ph.D. journey, research experiences, and technical tutorials. Through my work, I aim to inspire and educate the next generation of AI enthusiasts and researchers.
-🌟 Let’s Connect & Innovate Together!
-I’m always excited to collaborate on new ideas, discuss cutting-edge AI research, and connect with like-minded individuals! Feel free to reach out on LinkedIn, check out my GitHub projects, or just say hi! 😊
+# 👋 Hello there, I am Momina!  
+
+## **👩‍💻 About Me**  
+Hi there! I’m **Momina Liaqat Ali**, a passionate **researcher, data scientist, and machine learning engineer** specializing in **artificial intelligence, deep learning, and high-performance computing**.  
+
+Currently pursuing my **Ph.D.**, my work focuses on leveraging **machine learning and computational intelligence** to solve complex real-world problems in **medical imaging 🏥, bioinformatics 🔬, and time-series forecasting 📈**. I have hands-on experience in building **AI-driven healthcare applications**, optimizing **parallelized neural networks**, and developing **efficient machine learning models** for large-scale datasets.  
+
+With a strong technical background in **Python, PyTorch Lightning, and parallel computing 🚀**, I have contributed to various projects, including:  
+- **Malaria Detection in Medical Images 🦠** – Applying deep learning for automated diagnosis.  
+- **Parallelized RNN Training for Financial Forecasting 💰** – Optimizing model performance using **high-performance computing (HPC)**.  
+- **Microbiome Data Analysis 🧪** – Leveraging AI to extract insights from biological data.  
+
+Through my research, I strive to bridge the gap between **artificial intelligence and real-world applications**, making AI more accessible and impactful.  
+
+---
+
+## **🔹 What I Do**  
+✨ **AI for Healthcare & Bioinformatics** – Applying deep learning techniques to **medical imaging**, **disease detection**, and **biological data analysis**.  
+🚀 **High-Performance Computing (HPC)** – Optimizing machine learning models using **parallel and distributed computing** for faster execution.  
+📊 **Machine Learning & Data Science** – Developing models for **pattern recognition, time-series forecasting, and anomaly detection**.  
+🖥 **Deep Learning Research** – Exploring **neural network architectures, optimization techniques, and AI model efficiency**.  
+
+---
+
+## **🎥 Beyond Research: Sharing Knowledge & Building Community**  
+I strongly believe in **science communication and knowledge sharing**! 📢 That’s why I actively write about **AI, medical imaging, and deep learning**, contributing to the broader tech community.  
+
+I also run a **YouTube channel 🎥**, where I document my **Ph.D. journey, research experiences, and technical tutorials** to inspire and educate aspiring researchers and AI enthusiasts.  
+
+Through my work, I aim to **empower students, researchers, and professionals** by breaking down complex AI concepts into **practical, easy-to-understand insights**.  
+
+---
+
+## **🌟 Let’s Connect & Innovate Together!**  
+I’m always excited to collaborate on **innovative AI projects**, discuss **cutting-edge research**, and network with like-minded professionals.  
+
+📩 **Reach out to me on:**  
+- **[LinkedIn](https://www.linkedin.com/in/mominaliaqatali/)** – Let’s connect!  
+- **GitHub** – Explore my projects.  
+- **YouTube** – Follow my research journey!  
+
+Feel free to **drop me a message, explore my work, or simply say hi!** 😊🚀  
+
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->

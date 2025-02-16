@@ -1,14 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, I am Momina!"
+excerpt: "About me 🚀"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi there! I’m Momina Liaqat Ali 👩‍💻, a researcher, data scientist, and machine learning engineer with a deep passion for artificial intelligence, bioinformatics, and high-performance computing. Currently pursuing my Ph.D., I specialize in machine learning, deep learning, and computational intelligence, applying these technologies to solve real-world problems in medical imaging 🏥, bioinformatics 🔬, and time-series forecasting 📈.
+With a strong background in Python, PyTorch Lightning, and parallel computing, I have worked on a diverse range of projects, including malaria detection in medical images 🦠, parallelized RNN training for financial forecasting 💰, and microbiome data analysis 🧪. My expertise extends to high-performance computing (HPC) 🚀, where I optimize machine learning models to run efficiently on large datasets, reducing training time while maintaining accuracy.
+🔹 What I Do
+✨ AI for Healthcare & Bioinformatics – Applying deep learning to medical imaging, disease detection, and microbiome analysis.
+🚀 High-Performance Computing (HPC) – Optimizing AI models with parallel processing for faster execution.
+📊 Machine Learning & Data Science – Building intelligent systems for time-series forecasting and pattern recognition.
+🖥 Deep Learning Research – Exploring novel architectures and training techniques to push the boundaries of AI.
+🔗 Beyond Research: Sharing Knowledge & Building Community
+I believe in the power of science communication and knowledge sharing! 📢 That’s why I actively write about AI, medical imaging, and deep learning and share insights through my YouTube channel 🎥, where I document my Ph.D. journey, research experiences, and technical tutorials. Through my work, I aim to inspire and educate the next generation of AI enthusiasts and researchers.
+🌟 Let’s Connect & Innovate Together!
+I’m always excited to collaborate on new ideas, discuss cutting-edge AI research, and connect with like-minded individuals! Feel free to reach out on LinkedIn, check out my GitHub projects, or just say hi! 😊
 
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -46,4 +60,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

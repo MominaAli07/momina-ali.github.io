@@ -8,46 +8,46 @@ redirect_from:
   - /about.html
 ---
 
+# 👋 Hello, I’m Momina Liaqat Ali  
+
 ## **👩‍💻 About Me**  
-Hi there! I’m **Momina Liaqat Ali**, a passionate **researcher, data scientist, and machine learning engineer** specializing in **artificial intelligence, deep learning, and high-performance computing**.  
+I am a **researcher, data scientist, and machine learning engineer** specializing in **artificial intelligence (AI), deep learning, and high-performance computing (HPC)**. Currently pursuing my **Ph.D.**, my research focuses on the intersection of **machine learning, computational intelligence, and real-world applications** in **medical imaging 🏥, bioinformatics 🔬, and time-series forecasting 📈**.  
 
-Currently pursuing my **Ph.D.**, my work focuses on leveraging **machine learning and computational intelligence** to solve complex real-world problems in **medical imaging 🏥, bioinformatics 🔬, and time-series forecasting 📈**. I have hands-on experience in building **AI-driven healthcare applications**, optimizing **parallelized neural networks**, and developing **efficient machine learning models** for large-scale datasets.  
+I have experience in designing **AI-driven solutions for healthcare**, developing **optimized machine learning models for large-scale datasets**, and **applying parallel computing techniques to accelerate deep learning training**. My expertise includes **Python, PyTorch Lightning, HPC, and advanced machine learning frameworks**.  
 
-With a strong technical background in **Python, PyTorch Lightning, and parallel computing 🚀**, I have contributed to various projects, including:  
-- **Malaria Detection in Medical Images 🦠** – Applying deep learning for automated diagnosis.  
-- **Parallelized RNN Training for Financial Forecasting 💰** – Optimizing model performance using **high-performance computing (HPC)**.  
-- **Microbiome Data Analysis 🧪** – Leveraging AI to extract insights from biological data.  
+Over the course of my research, I have contributed to projects such as:  
+- **Medical Image Analysis 🦠** – Implementing deep learning for disease detection and classification.  
+- **Parallelized Neural Network Training 🚀** – Enhancing model efficiency using **distributed and high-performance computing (HPC)**.  
+- **Microbiome Data Analysis 🧪** – Leveraging machine learning to extract meaningful insights from biological datasets.  
 
-Through my research, I strive to bridge the gap between **artificial intelligence and real-world applications**, making AI more accessible and impactful.  
-
----
-
-## **🔹 What I Do**  
-✨ **AI for Healthcare & Bioinformatics** – Applying deep learning techniques to medical imaging, disease detection, and biological data analysis.  
-🚀 **High-Performance Computing (HPC)** – Optimizing machine learning models using parallel and distributed computing for faster execution.  
-📊 **Machine Learning & Data Science** – Developing models for pattern recognition, time-series forecasting, and anomaly detection.  
-🖥 **Deep Learning Research** – Exploring neural network architectures, optimization techniques, and AI model efficiency.  
+I am passionate about bridging the gap between **AI research and its practical applications**, ensuring that advanced machine learning techniques are accessible and impactful.  
 
 ---
 
-## **🎥 Beyond Research: Sharing Knowledge & Building Community**  
-I strongly believe in **science communication and knowledge sharing**! 📢 That’s why I actively write about **AI, medical imaging, and deep learning**, contributing to the broader tech community.  
-
-I also run a **YouTube channel 🎥**, where I document my **Ph.D. journey, research experiences, and technical tutorials** to inspire and educate aspiring researchers and AI enthusiasts.  
-
-Through my work, I aim to **empower students, researchers, and professionals** by breaking down complex AI concepts into **practical, easy-to-understand insights**.  
+## **🔹 Areas of Expertise**  
+✔ **Artificial Intelligence & Deep Learning** – Model development, optimization, and real-world applications.  
+✔ **High-Performance Computing (HPC) & Parallel Processing** – Enhancing computational efficiency for AI workloads.  
+✔ **Machine Learning for Healthcare & Bioinformatics** – Applying AI for medical imaging, disease prediction, and biological data analysis.  
+✔ **Time-Series Forecasting & Data Science** – Designing models for predictive analytics and trend analysis.  
 
 ---
 
-## **🌟 Let’s Connect & Innovate Together!**  
-I’m always excited to collaborate on **innovative AI projects**, discuss **cutting-edge research**, and network with like-minded professionals.  
+## **📢 Beyond Research: Science Communication & Knowledge Sharing**  
+I strongly believe in **science communication** and the importance of making AI research accessible. I actively share insights on **AI, machine learning, and deep learning** through technical writing and public engagement.  
 
-📩 **Reach out to me on:**  
+Additionally, I run a **YouTube channel 🎥**, where I document my **Ph.D. research, technical projects, and industry insights** to help students, researchers, and professionals gain a deeper understanding of machine learning and computational intelligence.  
+
+---
+
+## **🌟 Let’s Collaborate & Innovate**  
+I am always open to discussions on **cutting-edge AI research, industry collaborations, and innovative machine learning projects**.  
+
+📩 **Get in Touch:**  
 - **[LinkedIn](https://www.linkedin.com/in/mominaliaqatali/)** – Let’s connect!  
-- **GitHub** – Explore my projects.  
-- **YouTube** – Follow my research journey!  
+- **GitHub** – Explore my work and research contributions.  
+- **YouTube** – Learn more about AI, deep learning, and my research journey.  
 
-Feel free to **drop me a message, explore my work, or simply say hi!** 😊🚀  
+Feel free to reach out for **collaborations, research discussions, or AI-focused initiatives**. I look forward to connecting with like-minded professionals and contributing to the advancement of AI! 🚀  
 
 
 

@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Momina Homepage"
+title                    : "Momina Homepage New Fresh"
 title_separator          : "-"
 name                     : &name "Momina Liaqat Ali"
-description              : &description "personal description"
+description              : &description "PhD Student at MTSU"
 url                      : https://mominaali07.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mominaali07/momina-ali.github.io"

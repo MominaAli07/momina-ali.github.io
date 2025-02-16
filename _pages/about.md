@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hello, I’m Momina Liaqat Ali  
 
 ## **👩‍💻 About Me**  
 I am a **researcher, data scientist, and machine learning engineer** specializing in **artificial intelligence (AI), deep learning, and high-performance computing (HPC)**. Currently pursuing my **Ph.D.**, my research focuses on the intersection of **machine learning, computational intelligence, and real-world applications** in **medical imaging 🏥, bioinformatics 🔬, and time-series forecasting 📈**.  
